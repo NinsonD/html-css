@@ -1,0 +1,41 @@
+.first {
+  border-top: 5px solid;
+  color: aqua;
+  text-align: left;
+  background-color: rgb(207, 207, 207);
+  width: 500px;
+  padding-left: 30px;
+  padding-block: 10px;
+  border-color: aqua;
+}
+h2 {
+  color: aqua;
+  position: relative;
+}
+.main {
+  margin-inline: auto;
+  width: 900px;
+}
+h3 {
+  color: aqua;
+}
+.last {
+  background-color: rgb(212, 208, 208);
+  width: 500px;
+  margin-left: 10px;
+  border-top: 5px solid;
+  border-bottom: 5px solid;
+  border-color: aqua;
+}
+.links {
+  display: flex;
+  gap: 20px;
+  font-size: larger;
+}
+body {
+  border-top: 5px solid aqua;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
